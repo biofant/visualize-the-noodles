@@ -1,0 +1,10 @@
+{
+  "name": "noodles-components",
+  "version": "0.0.0",
+  "description": "noodles-components",
+  "main": "app.js",
+  "author": {
+    "name": "Ralf",
+    "email": ""
+  }
+}
